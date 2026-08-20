@@ -158,3 +158,15 @@ trojan://PQ05174892@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.aut
 trojan://PQ05174892@63.179.149.234:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=usable-dogfish.rooster465.autos#🏳️TG:TomHarderLegacy-Amazon.com
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.7.70:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBbw@195.231.87.172:103#🇮🇹TG:TomHarderLegacy-Aruba
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#🏳️TG:TomHarderLegacy-LLC Baxet
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇺🇸TG:TomHarderLegacy-Fast Data
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#🏳️TG:TomHarderLegacy-Baxet Group Inc.
+ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@194.87.69.207:20998#🏳️TG:TomHarderLegacy-LLC Baxet
+ss://YWVzLTI1Ni1nY206cDdLYXdQNXB6SlJIV0k5cQ%3D%3D@107.170.34.46:443#🏳️TG:TomHarderLegacy-DigitalOcean
+ss://YWVzLTI1Ni1nY206cDdLYXdQNXB6SlJIV0k5cQ@107.170.34.46:443#🏳️TG:TomHarderLegacy-DigitalOcean
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🏳️TG:TomHarderLegacy-Amazon.com
+trojan://PQ05174892@51.44.167.144:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=immune-earwig.rooster465.autos#🏳️TG:TomHarderLegacy-Amazon.com
+trojan://PQ05174892@54.74.159.195:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#🏳️TG:TomHarderLegacy-Amazon.com
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.14.2:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🏳️TG:TomHarderLegacy-Amazon.com
