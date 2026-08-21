@@ -170,3 +170,13 @@ trojan://PQ05174892@51.44.167.144:443?security=tls&insecure=0&headerType=none&ty
 trojan://PQ05174892@54.74.159.195:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#🏳️TG:TomHarderLegacy-Amazon.com
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.14.2:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🏳️TG:TomHarderLegacy-Amazon.com
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#🏳️TG:TomHarderLegacy-US Dedicated
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@robon.mashhad1market.ir:1080#🏳️TG:TomHarderLegacy-GLOBAL INTERNET SOLUTIONS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@152.70.63.86:45819#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#🇨🇦TG:TomHarderLegacy-GTHost
+ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce.ir:51058#🇩🇪TG:TomHarderLegacy-Contabo
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.46:10910#🏳️TG:TomHarderLegacy-Baxet Group Inc.
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🏳️TG:TomHarderLegacy-ONEPROVIDER
+vless://00f8444e-722a-4de1-b604-3480a40e8ea8@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#🇺🇸TG:TomHarderLegacy-Cloudflare
