@@ -370,3 +370,13 @@ trojan://mitivpn@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%
 trojan://telegram-id-privatevpns@35.178.85.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️TG:TomHarderLegacy-Amazon.com
 trojan://telegram-id-privatevpns@52.59.22.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️TG:TomHarderLegacy-Amazon.com
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.147.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🏳️TG:TomHarderLegacy-Amazon.com
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RXpVK0ZSSC9FWllhZGJoUjB3NGYycmFEa3o0aHVuS0tsUmFIbDdlWTgyRT0=@92.5.229.117:45819#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3FRVHdTT0RudFFpVUZDdDdYL0F3ZDBoSjFKTXpXRkNKbXZNV1NoUkU3RT0=@129.146.25.160:50356#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443#🇩🇪TG:TomHarderLegacy-Contabo
+trojan://AE62539071@193.169.239.14:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=emerging-weevil.rooster465.autos#🇱🇺TG:TomHarderLegacy-Gcore
+trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls#TG:TomHarderLegacy
+trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇱🇺TG:TomHarderLegacy-Gcore
+trojan://FH72359861@true-pony.rooster465.autos:443?fp=chrome&security=tls&sni=true-pony.rooster465.autos&type=tcp#🇱🇺TG:TomHarderLegacy-Gcore
+trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2x-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🇺🇸TG:TomHarderLegacy-Fastly, Inc.
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.202.5:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🏳️TG:TomHarderLegacy-Amazon.com
