@@ -403,3 +403,13 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.6.70:443?type=ws&security=tl
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.63.25:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.17.21.111:443?type=ws&security=tls&path=/&sni=de-new.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://04776582-ce7d-4e2c-082e-5dbbb08cf22d@irhub-production-4401.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production-4401.up.railway.app&path=/ws/04776582-ce7d-4e2c-082e-5dbbb08cf22d&sni=irhub-production-4401.up.railway.app&fp=chrome&alpn=http/1.1#🏳️TG:TomHarderLegacy-Railway
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@jp2.mhw7e2.online:20014#TG:TomHarderLegacy
+ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw@154.53.60.212:80#🇩🇪TG:TomHarderLegacy-Contabo USA
+ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@194.87.69.207:20991#🏳️TG:TomHarderLegacy-LLC Baxet
+trojan://EQ30679154@sure-bengal.rooster465.autos:443?sni=sure-bengal.rooster465.autos&type=tcp&fp=chrome#🏳️TG:TomHarderLegacy-Amazon.com
+trojan://IjeKXCOkPOrW@3.35.149.60:15364?allowInsecure=0&sni=appsvs.shop#🏳️TG:TomHarderLegacy-Amazon.com
+trojan://c26306e1-7892-3f19-b2ea-9824cd1b6744@36.141.40.27:13001?allowInsecure=0&sni=i2.hdslb.com#🏳️TG:TomHarderLegacy-China Mobile communications corporation
+trojan://hotfIEe8wNzvC7y-jT2Dc26pqYAtKscl@peo2.awexio.ir:2020?security=none&type=tcp&headerType=http&path=%2F&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#🏳️TG:TomHarderLegacy-Aéza
+trojan://telegram-id-privatevpns@13.50.45.4:22222?allowInsecure=0#🏳️TG:TomHarderLegacy-Amazon.com
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.139.67:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.6:443?type=ws&security=tls&path=/&sni=de-new.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
