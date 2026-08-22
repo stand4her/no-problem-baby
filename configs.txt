@@ -357,3 +357,16 @@ trojan://SBh0VuEr3GxnuZNjEalfWK042tJLuWS-@peo2.awexio.ir:2020?security=none&type
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸TG:TomHarderLegacy-Cloudflare
 trojan://telegram-id-privatevpns@3.77.221.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️TG:TomHarderLegacy-Amazon.com
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.79.73:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z0JMWTBlTXVEZU5WWURqRkNrQjJONUREeUNmOUdhaXFXZTd6QUdObEhldz0=@89.168.91.118:59924#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#🏳️TG:TomHarderLegacy-HOSTKEY B.V.
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🏳️TG:TomHarderLegacy-US Dedicated
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?allowInsecure=0&sni=vip-sg-1.hkd4fwmg.vip#🇺🇸TG:TomHarderLegacy-ServerPoint
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸TG:TomHarderLegacy-Fastly, Inc.
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸TG:TomHarderLegacy-Cloudflare London
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?allowInsecure=0&sni=tr-latvia1.unlimited-access.ru#🏳️TG:TomHarderLegacy-GLOBAL CONNECTIVITY SOLUTIONS LLP
+trojan://mitivpn@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fu-s%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🇺🇸TG:TomHarderLegacy-Fastly, Inc.
+trojan://telegram-id-privatevpns@35.178.85.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️TG:TomHarderLegacy-Amazon.com
+trojan://telegram-id-privatevpns@52.59.22.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️TG:TomHarderLegacy-Amazon.com
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.147.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🏳️TG:TomHarderLegacy-Amazon.com
