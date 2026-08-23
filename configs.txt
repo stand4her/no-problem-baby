@@ -499,3 +499,14 @@ trojan://EQ30679154@thorough-falcon.rooster465.autos:443#🇱🇺TG:TomHarderLeg
 trojan://PQ05174892@89.39.70.64:443?security=tls&sni=actual-aardvark.rooster465.autos&type=tcp&headerType=none#🇱🇺TG:TomHarderLegacy-Gcore
 trojan://UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN@104.253.175.248:41161?security=reality&pbk=fGiy6GU6FjQXWNzUVpW3gWz3yvrERV8ovGajJc9rgmM&headerType=none&fp=chrome&spx=%2Fc986d55f990116e&type=tcp&sni=www.cloudflare.com&sid=a3f3ba2e#🏳️TG:TomHarderLegacy-Unknown
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?encryption=none&type=ws&path=%2F%23Farah_VPN-52&security=tls&sni=germany-2.ariyuz.org#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://2022-blake3-chacha20-poly1305:Di0niuJKfaX3xE2XbjXVE3LnDahhHuRY3OehphQn+dw=@134.98.133.97:45819#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://2022-blake3-chacha20-poly1305:a%2FUK8LHF%2F90SAehQnn56RP5pUgdXKFLeP4sXt%2FD7VOw=@129.151.75.194:61312#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S1NUeWNWR2pkM3hkdUxReStxanRiTW9vb2V1TW1KVXMrTUtzM3ltMzl6Zz0@130.61.177.119:59924#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VDhuRFpBOWh5QXkyTXJEbEpCTDF3NUY2SE16Zk5OeU44WXNrMVNlMUlOYz0@158.180.13.253:45819#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUmxFTW91elpGbWNLU3BYdEtCR1h4MnRVVThUQzYweHBnK21HaXV6YjMwPQ@e2.cover20.ir:30874#🏳️TG:TomHarderLegacy-Ettelaat Fanavarn-E Tookan Co Ltd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🏳️TG:TomHarderLegacy-Psychz Networks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#🏳️TG:TomHarderLegacy-SERV.HOST GROUP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeWtVaTQ2VEp6LWMtRGVlNlJEQjNfMmI3bnMzMHNVbQ==@tr.mamad-imnix.ir:8080?type=tcp#🇹🇷TG:TomHarderLegacy-Netlen Internet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://YWVzLTEyOC1nY206TVZSSlFuSkRRMUozUjFKYVMxTlhOWEk1VkZCM2VreHFRMGR4UkRkdVpVWkRXblIxZG5OcWVFaFZTMXBoVmxaeVdHNDJRbmM1TkdWMllXUlVhRkZyVGc9PQ@37.77.106.46:26140#🏳️TG:TomHarderLegacy-JSC TimeWeb
+trojan://humanity@104.18.152.233:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸TG:TomHarderLegacy-Cloudflare
