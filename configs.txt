@@ -580,3 +580,49 @@ trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&h
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl1.nihaovpn.ru&fp=firefox&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&sid=d9622c6fea10c1&allowinsecure=1&type=tcp&headerType=none#🏳️TG:TomHarderLegacy-QWINS LTD
 vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#🇷🇺TG:TomHarderLegacy-ProCloud
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#🏳️TG:TomHarderLegacy-EUROHOSTER Ltd.
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MytmeXR4NHg1OUgzS2pDOWhQa2FpYS93bitnVGdsNmNlZzJxSjlJWHpjRT0=@140.245.126.240:56927#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VElzVHhoY0d4ZU5JbDlzQ0NQQUY1d25wZm1mdkY0M0doVEJRbnE0SEN4az0=@130.61.102.10:59924#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cUR1TFArNTZjTTRrcmFMUW9LdU5HUythNEErUmJjaWRBdzdpWFd0ZGRURT0=@158.101.215.37:45819#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.22.178:50099#🇹🇼TG:TomHarderLegacy-HiNet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg@193.0.179.84:31348#🏳️TG:TomHarderLegacy-Tyurin Viktor Mihaylovich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eDZjMmZ1ZWhoaDZuc3Yx@ir.best-cloud.ir:2087?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dgateway.icloud.com#🏳️TG:TomHarderLegacy-Enteghal Dadeh Araz Shomal Company PJSC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eDZjMmZ1ZWhoaDZuc3Yx@ir.best-cloud.ir:2087?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dgateway.icloud.com&security=none#🏳️TG:TomHarderLegacy-Enteghal Dadeh Araz Shomal Company PJSC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEZsTg==@194.147.35.56:8388#🏳️TG:TomHarderLegacy-Baykov Ilya Sergeevich, Hosting services
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#🏳️TG:TomHarderLegacy-Baykov Ilya Sergeevich, Hosting services
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🏳️TG:TomHarderLegacy-Alibaba
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI=@140.238.153.81:13345#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#🇺🇸TG:TomHarderLegacy-The Constant Company
+trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#🇱🇺TG:TomHarderLegacy-Gcore
+trojan://OD90375861@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇱🇺TG:TomHarderLegacy-Gcore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🏳️TG:TomHarderLegacy-Psychz Networks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@ca4.levikogjgfdd.ir:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY@140.238.64.207:42345#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇱🇻TG:TomHarderLegacy-Scalaxy
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ@149.102.132.180:443#🇩🇪TG:TomHarderLegacy-Contabo
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ@149.102.132.180:80#🇩🇪TG:TomHarderLegacy-Contabo
+ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ@149.102.152.25:80#🇩🇪TG:TomHarderLegacy-Contabo
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:443#🇩🇪TG:TomHarderLegacy-Contabo
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:80#🇩🇪TG:TomHarderLegacy-Contabo
+trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#🇷🇺TG:TomHarderLegacy-ProCloud
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&security=reality&sid=f648da8196bdb32e&sni=www.bing.com&type=tcp#🇩🇪TG:TomHarderLegacy-Hetzner Online
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRGY5dWpoWTlEWFRxUjlDOEE5bFUtUW5fZGFxdUYwTQ@188.213.197.139:1515#🏳️TG:TomHarderLegacy-AbrArvan CDN and IaaS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net10-3.shaygan.site:8080?type=tcp#🏳️TG:TomHarderLegacy-Unknown
+ss://eyJhZGQiOiAiMjE2LjEwNi4xODMuMzUiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgInBvcnQiOiAiMjIzMjQiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF8xOTkzMSBcdWQ4M2NcdWRmMGQgXHUyNmExXHVmZTBmIn0=#TG:TomHarderLegacy
+trojan://09ca66181ccb484087d8e9ec6c7eb14e@#TG:TomHarderLegacy
+trojan://09ca66181ccb484087d8e9ec6c7eb14e@104.21.24.164:8080?host=micro-svc-2337e0.amiralihsp27.workers.dev&type=ws&security=none&path=%2Ftr%2FwvFGGJIaIAR77oERRN%3Fed%3D2560#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://09ca66181ccb484087d8e9ec6c7eb14e@172.67.219.187:8080?host=micro-svc-2337e0.amiralihsp27.workers.dev&type=ws&security=none&path=%2Ftr%2FhEuULhIjpYJcHCyApEXIk5ioSa%3Fed%3D2560#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://09ca66181ccb484087d8e9ec6c7eb14e@micro-svc-2337e0.amiralihsp27.workers.dev:8080?host=micro-svc-2337e0.amiralihsp27.workers.dev&type=ws&security=none&path=%2Ftr%2F5hCf7I3kNeW705m5Uoumdsrorn%3Fed%3D2560#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://09ca66181ccb484087d8e9ec6c7eb14e@www.speedtest.net:8080?host=micro-svc-2337e0.amiralihsp27.workers.dev&type=ws&security=none&path=%2Ftr%2FrObPuLwmd3dZAU9y8mHREztlVXeY7%3Fed%3D2560#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://09ca66181ccb484087d8e9ec6c7eb14e@www.speedtest.net:80?host=micro-svc-2337e0.amiralihsp27.workers.dev&type=ws&security=none&path=%2Ftr%2F2tt9bxNRLEMb85k1d1EqvrgkW0fg%3Fed%3D2560#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.19.122.50:443?path=%2Fstream%2FPANEL_ZEUS%2F92b68c3eae48%2Floc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#🏳️TG:TomHarderLegacy-Alibaba
+trojan://MiTiVPN@140.248.185.253:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸TG:TomHarderLegacy-Fastly, Inc.
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#🇷🇺TG:TomHarderLegacy-ProCloud
+vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@80.209.242.219:8443?security=reality&encryption=none&pbk=JSuGjKCO2qkvNLP6jiMgIzlYhFrtkil7Iv2OP9ukegc&headerType=&fp=firefox&type=tcp&sni=blog.api.www.cloudflare.com&sid=09b62e27761e80a9#🏳️TG:TomHarderLegacy-HOSTKEY-USA
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&encryption=none&insecure=0&host=france.io-com-de-dev.org&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@188.114.97.6:8080?path=%2Fpyip&security=none&encryption=none&host=round-term-947c.41-332.workers.dev&type=ws#🇺🇸TG:TomHarderLegacy-Cloudflare
