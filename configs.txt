@@ -842,3 +842,16 @@ vless://00f5c9bc-1d01-4e45-95af-ff27b794428b@best5.daltoon-server.ir:330?securit
 vless://00f5c9bc-1d01-4e45-95af-ff27b794428b@best5.daltoon-server.ir:35768?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#TG:TomHarderLegacy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.240.105:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#🏳️TG:TomHarderLegacy-Amazon.com
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🏳️TG:TomHarderLegacy-Alibaba
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyT1B1U2xSNmgzWkhxbDNo@20.234.20.89:443?type=tcp#🏳️TG:TomHarderLegacy-Microsoft
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#🇬🇧TG:TomHarderLegacy-M247 Global
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#🇺🇸TG:TomHarderLegacy-Cogent Communications, Inc.
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388?type=tcp#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388?#🇫🇷TG:TomHarderLegacy-OVHcloud
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#🏳️TG:TomHarderLegacy-Catixs Ltd
+trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#🇺🇸TG:TomHarderLegacy-Cloudflare
