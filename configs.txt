@@ -759,3 +759,25 @@ trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#🏳
 trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#🏳️TG:TomHarderLegacy-Amazon.com
 trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#🇺🇸TG:TomHarderLegacy-Cloudflare
 trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WWNUNml1VkNLQ1l2a3cwZnNHUmVqWUNEN1lHVHVycldKSDQ2ck9vK1hFMD0=@130.61.181.160:59924#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Y00vT0w1MDNxT3MvRHJSM1VwT1RhVy9EbTNQQ25uRDJUOS9venU1ajBuaz0=@130.61.40.89:59924#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M2VXVHQ2NnR6OHA4c3RZTEIydmM3UT09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@Mari.Sav-savteAm.iR:2014#🇩🇪TG:TomHarderLegacy-Hetzner Online
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Smxia21CdURJUnUrcWdza2xHMVhlZz09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@Shada.Sav-savteAm.iR:2012#🇩🇪TG:TomHarderLegacy-Hetzner Online
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Tk9zdlIwOTVQdGxaQXJtWnJnY3BVZz09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@goRdan.Sav-savteAm.iR:2011#🇩🇪TG:TomHarderLegacy-Hetzner Online
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206blpTcjJianFyZ2U0VTRiRjJPK0hRZz09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@Lako.Sav-savteAm.iR:2013#🇩🇪TG:TomHarderLegacy-Hetzner Online
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🏳️TG:TomHarderLegacy-US Dedicated
+ss://YWVzLTI1Ni1nY206TVRWbE5HRmtZalpsT0RBd1pqTmtNV1V4TURjMU5EbG1NVGs1TW1NNQ@iran.tonanimalia.com:10117#🏳️TG:TomHarderLegacy-AbrArvan CDN and IaaS
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#🏳️TG:TomHarderLegacy-Turing Group Limited
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#🏳️TG:TomHarderLegacy-Turing Group Limited
+trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🏳️TG:TomHarderLegacy-YAMATO CLOUD LLC
+trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?allowInsecure=1#🇹🇼TG:TomHarderLegacy-Pittqiao Network Information Co.
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸TG:TomHarderLegacy-Cloudflare London
+vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#🇨🇦TG:TomHarderLegacy-GTHost
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@neth2.nihaovpn.ru:443?mode=gun&security=reality&encryption=none&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#🏳️TG:TomHarderLegacy-QWINS LTD
+vless://02dfc7eb-2dd6-475b-991c-b302ea593708@104.17.233.221:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://02e75d78-58ad-4a73-afca-24b781d8fdff@104.21.99.250:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=Р#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://046b9d39-574a-4fb0-80c0-e6be7f715f94@iran.arshia-nova.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=&fp=chrome&spx=%2Ffb9b7af26fb543c&type=tcp&sni=ue-author.semiconductor.samsung.com&sid=da51#🇩🇪TG:TomHarderLegacy-Hetzner Online
+vless://046b9d39-574a-4fb0-80c0-e6be7f715f94@iran.arshia-nova.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=&fp=random&spx=%2F4cd2df8eb749419&type=tcp&sni=github.com&sid=ab5b#🇩🇪TG:TomHarderLegacy-Hetzner Online
+vless://046b9d39-574a-4fb0-80c0-e6be7f715f94@iranian.arshia-nova.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=&fp=chrome&spx=%2Ffb9b7af26fb543c&type=tcp&sni=ue-author.semiconductor.samsung.com&sid=da51#🇩🇪TG:TomHarderLegacy-Hetzner Online
+vless://046b9d39-574a-4fb0-80c0-e6be7f715f94@iranian.arshia-nova.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=&fp=random&spx=%2F4cd2df8eb749419&type=tcp&sni=github.com&sid=ab5b#🇩🇪TG:TomHarderLegacy-Hetzner Online
