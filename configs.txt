@@ -951,3 +951,21 @@ trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪TG:TomHarderLegacy-F3 Netze
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#🏳️TG:TomHarderLegacy-QWINS LTD
 vless://04917f55-9c07-475f-a894-10d6505c362b@fank.milkabebar.ir:38479?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪TG:TomHarderLegacy-Hetzner Online
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QkpXZlZzUmlIeUZMMEJwbUV1Sk9OcFBneVFjRHcrL0pEaFVuVEU5ak5jQT0@129.151.85.220:61312#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TzM5aC9QaisvNlFzWFd1UlJDT2ZycUFUbE9vejB2NW9rVU9mSytYNFhXTT0@158.101.202.112:45819#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbzFxODdGcWdJR1VKN2sxTkZvRjF3@217.23.13.210:1080#🇳🇱TG:TomHarderLegacy-Worldstream BV
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZell3Wg@193.168.199.192:8388#TG:TomHarderLegacy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiV1ZQQTE3LzRjNS9PdUJTNU12UHVBd2tLVk9Ub1hyOHdBTkU5VENOSC9jPQ@e3.cover20.ir:56985?#🏳️TG:TomHarderLegacy-Sepanta Communication Development Co. Ltd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Z0tMMjAzQ3NKcmdndHg5M2NERnc2V1Zsd1hIS2c3eU9PcXBtTkZEM0RGZz0@107.181.155.206:54985#🇸🇦TG:TomHarderLegacy-YOTTASRC
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🏳️TG:TomHarderLegacy-ONEPROVIDER
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+trojan://0hbl%2A0RB4T%2CLSk%3BJK@104.21.72.201:2096?security=tls&sni=14SW2KRBEO0wv7GZ32H3BnJ.HalABiA061.workeRs.DEv&fp=chrome&alpn=http%2F1.1&type=ws&host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev&path=%2Ftr%2Fd2y5re8Z9iqkUtWNtSR%3Fed%3D2560#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://0hbl*0RB4T%2CLSk%3BJK@104.21.72.201:2096?path=%2Ftr%2Fd2y5re8Z9iqkUtWNtSR%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=14SW2KRBEO0wv7GZ32H3BnJ.HalABiA061.workeRs.DEv#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://ba19c9d6-3fc0-4085-9f47-465c5d7cceef@108.162.198.99:443?type=ws&path=%2Fx7f9k2m4p8&host=ajp.hyas.space&security=tls&sni=ajp.hyas.space#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://humanity@172.67.221.242:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://telegram-id-directvpn@35.177.149.156:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🏳️TG:TomHarderLegacy-Amazon.com
+vless://04dd8897-835e-43e1-a39f-1536be6d7cd5@82.40.62.214:37430?security=reality&encryption=none&pbk=fXtxHQ2cUKG5POzfZWKgnadT6NVBcS2lUBr9I7cifTI&headerType=&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#🇺🇸TG:TomHarderLegacy-3HCLOUD
