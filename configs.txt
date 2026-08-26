@@ -939,3 +939,15 @@ trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.63.25:443?type=ws&path=%2Fs
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.79.73:443?type=ws&path=%2Fsg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.76.14.59:443?security=reality&encryption=none&pbk=KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a8a897f350b14b20#🇬🇧TG:TomHarderLegacy-DpkgSoft International Limited
 vless://02e6ad71-7f85-4c3a-aac7-6171762bce87@172.67.148.180:443?path=%2FeyJqdW5rIjoia2N4eldGd0p6NVY1V3hrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=tls&encryption=none&insecure=0&host=summer-field-3c5b.fsdfsddf.workers.dev&type=ws&allowInsecure=0&sni=suMMer-fieLD-3c5b.fSdfSDDf.WoRKErs.dEv#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YjVPMnQ4cGdmc1lVd0YyRVBsdFhXZzBwYXFmcDUreUN3aFBsS0ZWSWRFVT06RllaOE5NKzduTTh6Y2FENnlzSWpGbjQ1ZytXVkZSOHd3WnZhaStBbExDdz0@free.diginoisb.ir:8080#🏳️TG:TomHarderLegacy-ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UTN2YXJ5SjNaaFNZVEE0@20.87.2.40:443#🏳️TG:TomHarderLegacy-Microsoft
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@ca4.levikogjgfdd.ir:8388#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇪🇪TG:TomHarderLegacy-BlueVPS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplR2xIOTNJeDhGd0tJMHMwRmhlYndm@157.22.240.141:57925#🏳️TG:TomHarderLegacy-GLOBAL CONNECTIVITY SOLUTIONS LLP
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#🏳️TG:TomHarderLegacy-Baxet Group Inc.
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#🏳️TG:TomHarderLegacy-Catixs Ltd
+trojan://FYZ8NM%2B7nM8zcaD6ysIjFn45g%2BWVFR8wwZvai%2BAlLCw%3D@free.diginoisb.ir:2053?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🏳️TG:TomHarderLegacy-ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C
+trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪TG:TomHarderLegacy-F3 Netze
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#🏳️TG:TomHarderLegacy-QWINS LTD
+vless://04917f55-9c07-475f-a894-10d6505c362b@fank.milkabebar.ir:38479?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪TG:TomHarderLegacy-Hetzner Online
