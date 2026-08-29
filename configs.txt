@@ -1198,3 +1198,17 @@ trojan://50414e45-4c5f-5a45-5553-729bb8924e5b@r0z7tee8ugxs.tlzzfveeuqcs.workers.
 trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏳️TG:TomHarderLegacy-Ping Identity Corporation
 vless://0346a35f-8e11-4b33-852d-00fa9c642878@18.177.61.231:30203?security=reality&encryption=none&pbk=dsJ2WwzENgTAgd8okJPXLpwzdsDjU67mBEnhUhgvvTk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=40150721499a92#🏳️TG:TomHarderLegacy-Amazon.com
 vless://03ab04d1-3dcf-41dd-9b38-fd2875047549@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#TG:TomHarderLegacy
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTAzRThnaTN1ck94Z3JJdjdUMDZ2RW9hZTNjdE1XVFMyWG5Zc3Q2akpTST0=@144.24.226.15:61312#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#🇮🇹TG:TomHarderLegacy-DeluxHost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#🏳️TG:TomHarderLegacy-Baykov Ilya Sergeevich, Hosting services
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw%3D@188.116.23.244:8388#🇱🇻TG:TomHarderLegacy-Scalaxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇱🇻TG:TomHarderLegacy-Scalaxy
+ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10991#🏳️TG:TomHarderLegacy-LLC Baxet
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:10051?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server#🏳️TG:TomHarderLegacy-LLC Baxet
+ss://chacha20-ietf-poly1305:yI1ivWgzRqPnR6FE@4.231.221.11:443#🏳️TG:TomHarderLegacy-Microsoft
+trojan://50414e45-4c5f-5a45-5553-269cfa818688@r0z7tee8ugxs.tlzzfveeuqcs.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F269cfa818688&security=tls&insecure=0&host=r0z7tee8ugxs.tlzzfveeuqcs.workers.dev&type=ws&allowInsecure=0&sni=r0z7tee8ugxs.tlzzfveeuqcs.workers.dev#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://eabf1999fefbb7d2@#TG:TomHarderLegacy
+trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://xhl549341@cf.090227.xyz:443?fm=ahmadv2ray&allowInsecure=0&host=tro.baiyi.cloudns.org&security=tls&sni=tro.baiyi.cloudns.org&insecure=0&path=%2F%3Fed%3D2560%2Fahmadv2ray&alpn=h3&type=ws#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://01ade7eb-38ee-4cab-8778-fe619d8b7442@altaria.proxy.rlwy.net:17280?encryption=none&host=&path=%2F&security=none&type=ws#🏳️TG:TomHarderLegacy-Railway
+vless://044e197e-9921-b555-a4c0-74022d22b229@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#🏳️TG:TomHarderLegacy-DigitalOcean
