@@ -1474,3 +1474,19 @@ trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?alpn=http%2F1.1&encryption=none&host=cf6.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf6.rumedia-cdn.com&type=ws#🏳️TG:TomHarderLegacy-H2NEXUS
 vless://05214830-5d65-4ee1-a3d4-68f36cbea637@23.227.39.123:443?security=tls&sni=api5.htve.ir&type=ws&host=api5.htve.ir&path=/&fp=chrome&alpn=h2,http/1.1#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#🏳️TG:TomHarderLegacy-EUROHOSTER Ltd.
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw@213.108.198.158:8444#🏳️TG:TomHarderLegacy-NKtelecom INC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV00xWQ@138.124.15.120:8388#🏳️TG:TomHarderLegacy-Baykov Ilya Sergeevich, Hosting services
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.152.189:50099#🇹🇼TG:TomHarderLegacy-HiNet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://YWVzLTEyOC1nY206T0RKYWVsZzBOMUJ1TWtGTU4xRTRUM05LTjBwaVFVNU5aMU5OU1ZsVE9EbEJUSEUzZEU5dVdtUkdOM2R3Y1VaRFZFcEhZbk4yWkZKWFZtcFdaRVZwZHc9PQ@200.169.178.229:37518#TG:TomHarderLegacy
+ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10929#🇺🇸TG:TomHarderLegacy-WAP.AC LLC
+ss://YWVzLTI1Ni1nY206T1dZNE9XTmhOVGs1TlRVM1pHWXhNRGd3TkdSa1pqRmlNamxsT0RWbA@94.101.186.13:9126?prefix=%16%03%01%00%C2%A8%01%01#🏳️TG:TomHarderLegacy-AbrArvan CDN and IaaS
+ss://YWVzLTI1Ni1nY206TVdJME4ySmpaV1JrT1dZMFlUVTFOR1kwTm1NeVpUQmtORFpqWmpKbQ@94.101.187.94:9110?prefix=%16%03%01%00%C2%A8%01%01#🏳️TG:TomHarderLegacy-AbrArvan CDN and IaaS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:20065?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🇭🇰TG:TomHarderLegacy-UCloud Information Technology (HK) Limited
+trojan://fhdufiydsgfiusdfg@188.68.58.148:3320?allowInsecure=0&insecure=0&sni=potyjnometr.gayvibe.dpdns.org&security=tls&alpn=http%2F1.1&headerType=none&type=tcp&fp=firefox#🇦🇹TG:TomHarderLegacy-netcup GmbH
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#🇰🇿TG:TomHarderLegacy-NLS Kazakhstan
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=none&encryption=none&type=ws#🏳️TG:TomHarderLegacy-LeaseWeb Netherlands / AMS-01
