@@ -1504,3 +1504,13 @@ trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2
 vless://%58pnTeam-40@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸TG:TomHarderLegacy-Fastly, Inc.
 vless://00f6757c-7dec-4338-affc-3630c053b33f@66.33.22.220:12580?security=reality&encryption=none&pbk=2hbPKGw1sSx2JzztIcTquTduzbNB7wDbY4lNK30BoD0&headerType=none&fp=ios&spx=%2Fd68f92e37fe4aa7&type=tcp&sni=hexdocs.pm&sid=56d13342b3fb1f#🏳️TG:TomHarderLegacy-Railway
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.69.112:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🏳️TG:TomHarderLegacy-Amazon.com
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXJBT0xjbWlaSjNwdmdVbHVQZVAwTzU5a1BkNkZMQ1RyMXRoRjhMZktYVT0%3D@129.151.85.23:61312#🇺🇸TG:TomHarderLegacy-Oracle Cloud Infrastructure
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.226:50099#🇹🇼TG:TomHarderLegacy-HiNet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg@193.0.179.84:31348#🏳️TG:TomHarderLegacy-Tyurin Viktor Mihaylovich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?prefix%16%03%01%00%C2%A8%01%01#🇫🇷TG:TomHarderLegacy-OVHcloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#🇳🇱TG:TomHarderLegacy-Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#🇳🇱TG:TomHarderLegacy-Greenhost
+trojan://MITIVPN@openai.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-S-a&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=UsAba-bUbks.App-CloUd.IR#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#🇺🇸TG:TomHarderLegacy-Cloudflare London
+trojan://Telegram_healer_config@104.21.56.172:443?path=%2Ftr%2FiKNPzyUClLafWsNIz03UG9xb%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=bktf381b04nchtxkn8tidezqgf.tcnth9s31mg1j4tnxlad62o1s2o.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bktF381B04NcHTXKN8TideZQGF.TcNtH9S31mG1j4TNxLAD62o1s2o.wOrKeRs.dEV#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://05214830-5d65-4ee1-a3d4-68f36cbea637@190.93.245.100:443?encryption=none&security=tls&sni=api5.htve.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=api5.htve.ir&path=%2F#🇺🇸TG:TomHarderLegacy-Cloudflare
