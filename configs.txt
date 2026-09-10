@@ -7514,3 +7514,21 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.23:80?type=ws&host=kr1.1
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.87:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.226:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.158.26:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND0=@141.95.29.163:2083#🇫🇷TG:TomHarderLegacy-OVHcloud
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://034dc045-b53c-4e3e-8a4b-6d93f233350e@192.71.82.2:8443?encryption=none&type=xhttp&path=%2Fdl-assets&host=dl.eloctroforce.com&mode=stream-up&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22firefox%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&security=tls&sni=dl.eloctroforce.com&fp=chrome&alpn=h2#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏳️TG:TomHarderLegacy-Giti Secure Cloud
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🇺🇸TG:TomHarderLegacy-Cloudflare London
+vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.47.199:443?security=tls&sni=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&host=e420ceed.aryoo-vpn-friends.pages.dev#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://35f3f746-54fd-457c-9606-f4ef66416d6d@162.159.153.2:2096?security=tls&sni=mizi2.karbala42.rent&type=grpc&fp=firefox&alpn=h2#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.247.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.144.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.251.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.49.34:80?type=ws&host=us3.rtacg.com&path=%2F#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.63.60:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.92.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.204.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://44fff300-6307-46e2-b937-7c903375c57c@varzesh3.com:2095?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&path=%2Fpgcfws-r4&encryption=none&host=mrs.hamrahconff.ir&type=ws#🏳️TG:TomHarderLegacy-Noyan Abr Arvan Co. ( Private Joint Stock)
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.151.152:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.158.26:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
