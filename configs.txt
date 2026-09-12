@@ -1801,3 +1801,25 @@ vless://6ed93c72-1b3a-4bcb-929a-8b5ee8926750@104.21.65.163:8880?security=none&ty
 vless://6f812c4f-d615-4057-b262-df48a9f95030@172.67.187.56:2083?security=tls&sni=emifree2.bestgameir2.ir&type=ws&path=/JoinChanel-proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.proxyforopeta.join-@proxyforopeta.telegram:@proxyforopeta-V2rayngmmd-telegram-free-v2ray?ed&fp=chrome&alpn=h2,http/1.1#🇺🇸TG:TomHarderLegacy-Cloudflare
 vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl3.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=dl3.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl3.gooniforoshi.fun#🏳️TG:TomHarderLegacy-Pars Abr Toseeh Ertebatat Company
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.90:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://0fe4ea2c-9353-4b48-9f91-0c2fd1724c1e@172.67.204.84:2095?security=none&type=ws&host=new.server.列列男事的事列上赛男78.gamermecfz.ir&path=/父亲#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://312b0699-a47a-496e-97b6-cb3af1654d35@172.67.72.18:8880?security=none&type=ws&host=918.hebav63406.workers.dev#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?mode=auto&path=%2F%3Fed%3D2082&security=&encryption=none&host=h.cafearen.ir&type=xhttp#🇺🇸TG:TomHarderLegacy-Cloudflare London
+vless://3f9f2bda-0b9c-8469-7381-a73de2255619@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🏳️TG:TomHarderLegacy-Unknown
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.35.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🏳️TG:TomHarderLegacy-Scaleway
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🏳️TG:TomHarderLegacy-Scaleway
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🏳️TG:TomHarderLegacy-Scaleway
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.73:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.163.53:80?type=ws&host=kr1.175852.xyz&path=/abcde#🇺🇸TG:TomHarderLegacy-Cloudflare
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#🇳🇱TG:TomHarderLegacy-Greenhost
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#🇱🇹TG:TomHarderLegacy-Cherry Servers NL
+vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🏳️TG:TomHarderLegacy-Dataforest
+vless://3ab633de-99ed-4566-9749-c75c7f352106@safdar.uicloud.tr:15451?encryption=none&security=none&type=grpc&headerType=none&serviceName=www.google.com%3A443&authority=www.mega.io&mode=gun#🏳️TG:TomHarderLegacy-Pfcloud UG
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.231:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.167.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.85.192:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.219.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#🇺🇸TG:TomHarderLegacy-Cloudflare
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.159.247.6:443?security=tls&sni=PAGES.DEV&type=ws&host=tmcir.pages.dev&path=%2FTelegram%2FXV2ray%3Fed%3D2048#🇺🇸TG:TomHarderLegacy-Cloudflare London
